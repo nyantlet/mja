@@ -1,8 +1,8 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/countdown5.mp3"},
     "6":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/discard_tile.mp3"},
+    "7":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/countdown5.mp3"},
     "25":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/yuuki/act_pon.mp3"},
     "26":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/nodoka/act_pon.mp3"},
     "27":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/yuuki/act_kan.mp3"},
