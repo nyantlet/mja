@@ -1,0 +1,21 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/countdown5.mp3"},
+    "6":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/discard_tile.mp3"},
+    "25":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_pon.mp3"},
+    "26":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_pon.mp3"},
+    "27":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_kan.mp3"},
+    "28":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_kan.mp3"},
+    "29":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_chi.mp3"},
+    "30":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_chi.mp3"},
+    "31":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_rich.mp3"},
+    "32":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_rich.mp3"},
+    "33":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_ron.mp3"},
+    "34":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_ron.mp3"},
+    "35":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/teru/act_tumo.mp3"},
+    "36":{"url":"https://nyantlet.github.io/mja/tenhou/SE/saki/toki/act_tumo.mp3"},
+    "40":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/winlose.mp3"},
+    "41":{"url":"https://nyantlet.github.io/mja/tenhou/SE/majsoul/yakuman.mp3"}
+  }
+}
