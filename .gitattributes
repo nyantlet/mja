@@ -1,5 +1,4 @@
-*.png -text
-*.gif -text
-*.jpg -text
-*.mp3 -text
-*.wav -text
+* binary
+
+*.md text=auto
+*.json text=auto
